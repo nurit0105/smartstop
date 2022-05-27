@@ -1,6 +1,6 @@
 # SmartStop
 
-## Project for Webtechnologies from:
+## Project for Web Technologies from:
 
 * Arzberger Raphael
 * Davidowicz Laura Nurit
@@ -8,11 +8,11 @@
 * Gallmetzer Nina
 
 ## Aim of the project
-A webaplication to display 
+A web application to display 
 * the next depatures of public transport in stations near you. 
 * show the hourly weather for a user set time.
 
-It was made for the subject Webtechnologies at FH Campus Wien.
+It was made for the subject Web Technologies at FH Campus Wien.
 
 ## Technologies
 Backend: Spring
