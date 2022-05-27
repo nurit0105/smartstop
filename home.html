@@ -31,22 +31,32 @@
     </ul>
 </nav>
 <section>
-    <div class ="grid-container">
-        <div class = "dropdown">
-            <p>Public Transportation Searchbar and Drop Down </p>
+    <div class="grid-container">
+        <!-- Public Transportation Searchbar and Drop Down -->
+        <div class="dropdown">
+            <div class="search-container">
+                <input class="form-control" type="text" placeholder="Search your Station">
+            </div>
+            <div class="to-choose">
+                <select class="text-center">
+                    <option selected> Choose your Station</option>
+                    <option value="Subway"> Subway</option>
+                    <option value="Bus">Bus</option>
+                    <option value="Tram">Tram</option>
+                </select>
+            </div>
         </div>
-        <div class="public-transportation" >
+        <div class="public-transportation">
             <p>Display for Public transportation</p>
         </div>
         <!-- Life Uhranzeige -->
         <div class="text-white">
-            <div class ="digital-clock">00:00:00</div>
+            <div class="digital-clock">00:00:00</div>
         </div>
-        <div id="News" class= "News">
+        <div id="News" class="News">
             <!--News Feed-->
             <p> News Feed </p>
         </div>
-        <!--Google Maps Ends-->
         <div class="weather">
             <p>Wetter Informationen</p>
         </div>

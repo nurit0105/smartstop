@@ -8,7 +8,7 @@ setTimeout(function() {
         setInterval(clockUpdate, 1000);
     })
 
-//life clock
+//life clock https://codepen.io/iiSeptum/pen/LYWYop 27-05-2022
     function clockUpdate() {
         var date = new Date();
         $('.digital-clock').css({'color': '#fff', 'text-shadow': '0 0 6px #ff0'});
@@ -19,7 +19,7 @@ setTimeout(function() {
                 return x;
             }
         }
-//timeframe for the clock
+//timeframe for the clock https://codepen.io/iiSeptum/pen/LYWYop 27-05-2022
         function twelveHour(x) {
             if (x > 24) {
                 return x = x - 24;

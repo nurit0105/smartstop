@@ -15,7 +15,7 @@ A web application to display
 It was made for the subject Web Technologies at FH Campus Wien.
 
 ## Technologies
-Backend: Spring
-Frontend: Angular
+Backend: 
+Frontend: 
 
 ## How to start:

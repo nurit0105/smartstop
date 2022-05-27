@@ -44,6 +44,18 @@ p{
     grid-column-end: 2;
 }
 
+.to-choose{ /* for dropdown */
+    padding: 20px;
+}
+
+.text-center{ /* for dropdown */
+    /* Round corners */
+    border: 3px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
 .calender{
     background: black;
     /* Round corners */
@@ -59,7 +71,7 @@ p{
     grid-column-end: 3;
 }
 
-.digital-clock { /*for digital clock */
+.digital-clock { /*for digital clock https://codepen.io/iiSeptum/pen/LYWYop 27-05-2022 */
     margin: auto;
     top: 0;
     left: 0;
