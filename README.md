@@ -7,7 +7,7 @@
 * Fischer Carmen
 * Gallmetzer Nina
 
-## Aim of the project
+## Project Aim
 A web application to display 
 * the next depatures of public transport in stations near you. 
 * show the hourly weather for a user set time.
